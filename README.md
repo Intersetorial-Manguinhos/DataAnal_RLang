@@ -1,0 +1,2 @@
+# DataAnal_RLang
+ Curso Enap Análise de Dados em Linguagem R - A análise de dados tem grande importância na tomada de decisões, auxiliando instituições na detecção de anomalias, monitoramento de indicadores ou melhoria de processos. Neste curso, você vai aprender a utilizar a linguagem R na preparação e exploração dos dados, apresentando resultados em gráficos e painéis gerenciais. Além disso, você vai conhecer conceitos iniciais de ciência de dados
